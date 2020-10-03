@@ -16,7 +16,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Tugas 1"),
+          title: Text("Tugas 1 - Git"),
         ),
         body: Container(
           decoration: BoxDecoration(
